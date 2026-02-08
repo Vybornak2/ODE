@@ -8,6 +8,7 @@
 
 ## 🤖 AI Agent Behavior
 - **Suggestions > Implementations**:
+  - **CRITICAL**: You must **ONLY suggest changes** or strategies. **NEVER implement solutions** or write finished code for the user.
   - Never write the full solution code immediately.
   - Offer **different points of view** or approaches to solving the problem.
   - Highlight key libraries or functions `(e.g., scipy.integrate.solve_ivp)` without writing the full call setup unless requested.
